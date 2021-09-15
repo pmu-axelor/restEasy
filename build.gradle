@@ -12,6 +12,7 @@ dependencies {
 
              compile 'org.jboss.resteasy:resteasy-core:4.7.1.Final'
              compile 'org.jboss.resteasy:resteasy-servlet-initializer:4.7.1.Final'
+             compile 'org.jboss.resteasy:resteasy-jackson2-provider:4.7.1.Final'
 }
 
 // Define the main class for the application
